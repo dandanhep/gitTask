@@ -1,3 +1,4 @@
+//console logged the saying
 console.log("Git is Awesome!");
 
 //accept input from user and then print inputted data
