@@ -1,0 +1,67 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* container for app */
+.container {
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* form style */
+form {
+  margin-bottom: 20px;
+}
+
+/* input text box style */
+input[type="text"] {
+  padding: 20px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  width: 300px;
+}
+
+button {
+  display: inline-block;
+  padding: 15px 30px;
+  border-radius: 50px;
+  font-size: 18px;
+  font-weight: bold;
+  background-color: burlywood;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+/* content text */
+li {
+  margin-bottom: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* buttons */
+.round-button {
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 50px;
+  font-size: 16px;
+  font-weight: bold;
+  background-color: rgb(220, 162, 86);
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  margin-right: 10px;
+}
